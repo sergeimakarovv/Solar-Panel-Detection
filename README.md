@@ -76,9 +76,11 @@ Calculate the resulting area of the identified solar panels in Brandenburg. Esti
 
 ## **Notes**
 
+All the input data, trained models, JSON files with losses and evaluation metrics can be found in [**Google Drive**](https://drive.google.com/drive/folders/10p3SCaN2at0BQcw9AK6mUX1jUAQTx9J_?usp=sharing)
+
 How to run the code:
 
 - Ensure to download the necessary packages as in `requirements.txt`
-- Download the data from the mentioned sources
+- Download the data from the mentioned sources (or from the Google Drive)
 - Define your own project folder path
 - Make sure to use a PyTorch version compatible with the GPU
